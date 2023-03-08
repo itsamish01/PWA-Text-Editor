@@ -1,7 +1,7 @@
 
   # Text Editor (PWA)
   
-  Link to deployed application => 
+  Link to deployed application => https://super-cool-pwa-text-editor.herokuapp.com/
   
   ## Table of Contents
 - [Description](#description)
